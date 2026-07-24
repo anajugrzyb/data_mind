@@ -43,8 +43,8 @@ Assistente interativo construído com **Streamlit** e **Langchain** que permite 
 1. Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
-cd <nome-da-pasta>
+git clone https://github.com/anajugrzyb/data_mind.git
+cd data_mind
 ```
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
